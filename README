@@ -1,6 +1,6 @@
 1. Lychee13-3634 Dataset
-Since the limitation of file size, we put our Lychee13-3634 Dataset on Baidu NetDisk Link:  
-Extracting code:
+Since the limitation of file size, we put our Lychee13-3634 Dataset on Baidu NetDisk Link: https://pan.baidu.com/s/1AZ8XMhzjkbrPDHTyuFaZ-g?pwd=1rxd
+Extracting code: 1rxd
 
 2. We comprehensively analysis 20 exsiting SOTA methods on lychee classification task, including 6 ResNet-series, 9 Deep learning-series, and 5 Yolo-series.
 1) ResNet-series can be download at:
