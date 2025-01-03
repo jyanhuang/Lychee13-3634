@@ -1,0 +1,46 @@
+1. Lychee13-3634 Dataset
+Since the limitation of file size, we put our Lychee13-3634 Dataset on Baidu NetDisk Link:  
+Extracting code:
+
+2. We comprehensively analysis 20 exsiting SOTA methods on lychee classification task, including 6 ResNet-series, 9 Deep learning-series, and 5 Yolo-series.
+1) ResNet-series can be download at:
+  -ResNet-152
+  -ResNet-101
+  -ResNet-50
+  -ResNet-34
+  -ResNet-18
+  -Residual-Attention-Network
+2) Deep learning-series codes can be download at: 
+  -EfficientNet-V2-s
+  -EfficientNet-V2-m
+  -EfficientNet-V2-l
+  -SENet
+  -VisionTransformer
+  -SqueezeNet
+  -ShuffleNet-V2
+  -MobileNet-V2
+3) Yolo-series codes can be download at: 
+  -YOLOv5
+  -YOLOv7
+  -YOLOv8
+  -YOLOv9
+  -YOLOv10
+
+
+References
+[1] 
+[2] He, K., Zhang, X., Ren, S. & Sun, J. Deep residual learning for image recognition. In: Proceedings of the IEEE conference on computer vision and pattern recognition, 2016b, pp. 770–778.
+[3] 
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+[14]
+[15] 
+
