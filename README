@@ -3,30 +3,30 @@ Since the limitation of file size, we put our Lychee13-3634 Dataset on Baidu Net
 Extracting code: 1rxd
 NOTE: ./MultipleLycheeImages.png and ./SingleLycheeImages.png show the 13 categories of multiple and single lychee image samples from Lychee13-3634 dataset, respectively.
 
-2. We comprehensively analysis 20 exsiting SOTA methods on lychee classification task, including 6 ResNet-series, 9 Deep learning-series, and 5 Yolo-series.
-1) ResNet-series can be download at:
-  -ResNet-152
-  -ResNet-101
-  -ResNet-50
-  -ResNet-34
-  -ResNet-18
+2. We comprehensively analysis 20 exsiting SOTA methods on lychee classification task, including 6 ResNet-series, 9 Deep learning-series, and 5 Yolo-series. 
+1) ResNet-series are including:
+  -ResNet152
+  -ResNet101
+  -ResNet50
+  -ResNet34
+  -ResNet18
   -Residual-Attention-Network
-2) Deep learning-series codes can be download at: 
-  -EfficientNet-V2-s
-  -EfficientNet-V2-m
-  -EfficientNet-V2-l
+2) Deep learning-series are including:
+  -EfficientNetV2-s
+  -EfficientNetV2-m
+  -EfficientNetV2-l
   -SENet
   -VisionTransformer
   -SqueezeNet
-  -ShuffleNet-V2
-  -MobileNet-V2
-3) Yolo-series codes can be download at: 
+  -ShuffleNetV2
+  -MobileNetV2
+3) Yolo-series codes are including:
   -YOLOv5
   -YOLOv7
   -YOLOv8
   -YOLOv9
   -YOLOv10
-
+NOTE: All the resource codes of them are available at: https://github.com/jyanhuang/Lychee13-3634.git
 
 References
 [1] 
