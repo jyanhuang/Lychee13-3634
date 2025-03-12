@@ -20,13 +20,16 @@ NOTE: ./MultipleLycheeImages.png and ./SingleLycheeImages.png show the 13 catego
   -SqueezeNet
   -ShuffleNetV2
   -MobileNetV2
+NOTE: All the resource codes of above models are available at: https://github.com/jyanhuang/Lychee13-3634.git
+
 3) Yolo-series codes are including:
   -YOLOv5
   -YOLOv7
   -YOLOv8
   -YOLOv9
   -YOLOv10
-NOTE: All the resource codes of them are available at: https://github.com/jyanhuang/Lychee13-3634.git
+NOTE: because the uploading limitation of GitHub, we put the codes of YOLO-series in Baidu NetDist Link: 
+Extracting code: 
 
 References
 [1] 
