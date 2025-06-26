@@ -1,2 +1,32 @@
 Since the limitation of file size, we put our Lychee13-3634 Dataset on Baidu NetDisk Link: https://pan.baidu.com/s/1AZ8XMhzjkbrPDHTyuFaZ-g?pwd=1rxd
 Extracting code: 1rxd
+
+-Lychee_dataset.zip (Lychee13-3634)
+  -train
+    -Blakleaf        (204)
+    -ChickenMouth    (208)
+    -Crystalball     (204)
+    -Feizixiao       (234)
+    -Guiwei          (187)
+    -HangingGreen    (297)
+    -LycheeKing      (209)
+    -Nuomici         (217)
+    -Seedless        (231)
+    -TopScorerRed    (253)
+    -WhiteSugerPoppy (220)
+    -Whitewax        (207)
+    -Xianjingfeng    (222)
+  -test 
+    -Blakleaf        (52)
+    -ChickenMouth    (52)
+    -Crystalball     (52)
+    -Feizixiao       (59)
+    -Guiwei          (47)
+    -HangingGreen    (75)
+    -LycheeKing      (53)
+    -Nuomici         (55)
+    -Seedless        (58)
+    -TopScorerRed    (64)
+    -WhiteSugerPoppy (55)
+    -Whitewax        (52)
+    -Xianjingfeng    (56)
